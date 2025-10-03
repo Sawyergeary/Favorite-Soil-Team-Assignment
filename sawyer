@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Sawyer - Team Member</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Sawyer</h1>
+  <nav>
+    <a href="index.html">Home</a> |
+    <a href="blog.html">Blog</a> |
+    <a href="team1.html">Sawyer</a> |
+    <a href="team2.html">Tommy</a> |
+    <a href="team3.html">Lawson</a>
+  </nav>
+  <p>Sawyer is our lead engineer, specializing in construction, soil science, and environmental systems.</p>
+</body>
+</html>
