@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Lawson - Team Member</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Lawson</h1>
+  <nav>
+    <a href="index.html">Home</a> |
+    <a href="blog.html">Blog</a> |
+    <a href="team1.html">Sawyer</a> |
+    <a href="team2.html">Tommy</a> |
+    <a href="team3.html">Lawson</a>
+  </nav>
+  <p>Lawson focuses on soil chemistry, mass-balance modeling, and environmental compliance.</p>
+</body>
+</html>
