@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Tommy - Team Member</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Tommy</h1>
+  <nav>
+    <a href="index.html">Home</a> |
+    <a href="blog.html">Blog</a> |
+    <a href="team1.html">Sawyer</a> |
+    <a href="team2.html">Tommy</a> |
+    <a href="team3.html">Lawson</a>
+  </nav>
+  <p>Tommy brings expertise in field logistics, structural analysis, and hands-on project coordination.</p>
+</body>
+</html>
